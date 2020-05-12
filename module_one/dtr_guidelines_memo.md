@@ -1,3 +1,9 @@
+# Guidelines
+
+* 80% driver-nav during paired project - split evenly
+	* articulate code, pseudocode/talking about it in your own words -- forced to practice these
+* Goal: *understanding* vs *completion*
+
 # DTR: Define the Relationship
 
 Use this template when conducting DTR with your project partners. *It's recommended that you copy/paste this template into your own gist each time you conduct a DTR to take notes on the conversation.* 
